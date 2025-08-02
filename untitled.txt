@@ -1,2 +1,0 @@
-Given this nested list, use indexing to grab the word "hello"
-In [ ]: lst = [1,2,[3,4],[5,[100,200,['hello']],23,11],1,7]
